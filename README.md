@@ -34,18 +34,19 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm Zaky Ahamed from Sri Lanka.<br><br>
-- 🌱 I’m currently learning and building projects with the **MERN stack (MongoDB, Express, React, Node.js)**  
-- 🎓 I’m a **Software Engineering undergraduate** passionate about practical, real-world application development  
-- 🖌️ I’m deeply interested in **UI/UX Design** and love crafting clean, intuitive user experiences  
-- 🔭 Currently working as a **Software Engineering Intern** gaining real industry experience  
-- 🧠 Always exploring new technologies, frameworks, and creative ideas  
-- 💬 I enjoy helping others, collaborating, and learning together  
-- 🤝 I believe in **kindness**, sharing knowledge, and supporting the community  
-- ✨ Aspiring to combine development + design for impactful solutions  
-
----
+  I'm Zaky Ahamed from Sri Lanka.
 </p>
+
+<ul align="left">
+  <li>🌱 I’m currently learning and building projects with the <strong>MERN stack (MongoDB, Express, React, Node.js)</strong></li>
+  <li>🎓 I’m a <strong>Software Engineering undergraduate</strong> passionate about practical, real-world application development</li>
+  <li>🖌️ I’m deeply interested in <strong>UI/UX Design</strong> and love crafting clean, intuitive user experiences</li>
+  <li>🔭 Currently working as a <strong>Software Engineering Intern</strong> gaining real industry experience</li>
+  <li>🧠 Always exploring new technologies, frameworks, and creative ideas</li>
+  <li>💬 I enjoy helping others, collaborating, and learning together</li>
+  <li>🤝 I believe in <strong>kindness</strong>, sharing knowledge, and supporting the community</li>
+  <li>✨ Aspiring to combine development + design for impactful solutions</li>
+</ul>
 
 ###
 
