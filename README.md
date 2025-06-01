@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zaki+Ahamed;Software+Engineering+Undergraduate;MERN+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+M S Zaky+Ahamed;Software+Engineering+Undergraduate;MERN+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/zkyahmd/" target="_blank">
+  <a href="www.linkedin.com/in/zakyahamed50257" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@zkyahmd" target="_blank">
+  <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-  <a href="https://twitter.com/zkyahmd" target="_blank">
+  <a href="https://x.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="mailto:zkyahmd@gmail.com" target="_blank">
+  <a href="mailto:zakyahamed978@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
@@ -34,11 +34,17 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm Zaki Ahamed from Sri Lanka.<br><br>
-  - 🔭 I’m currently working as a Software Engineering Intern<br>
-  - 📚 I'm learning advanced MERN stack, clean architecture, and cloud deployment<br>
-  - 🛠 I love building open-source and full-stack apps<br>
-  - ⚡ In my free time I contribute to GitHub, explore new tech, and design UI<br>
+  I'm Zaky Ahamed from Sri Lanka.<br><br>
+- 🌱 I’m currently learning and building projects with the **MERN stack (MongoDB, Express, React, Node.js)**  
+- 🎓 I’m a **Software Engineering undergraduate** passionate about practical, real-world application development  
+- 🖌️ I’m deeply interested in **UI/UX Design** and love crafting clean, intuitive user experiences  
+- 🔭 Currently working as a **Software Engineering Intern** gaining real industry experience  
+- 🧠 Always exploring new technologies, frameworks, and creative ideas  
+- 💬 I enjoy helping others, collaborating, and learning together  
+- 🤝 I believe in **kindness**, sharing knowledge, and supporting the community  
+- ✨ Aspiring to combine development + design for impactful solutions  
+
+---
 </p>
 
 ###
@@ -142,3 +148,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zkyahmd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
+---
+
+### 🙏 Motto
+
+> "Be kind always. Help others. Grow together."
+
+---
