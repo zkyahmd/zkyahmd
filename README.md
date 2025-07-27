@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/zkyahmd/count.svg?" alt="visitor counter" />
+  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" title="visitor counter" Alt="visitor counter"   border="0" />
 </div>
 
 ###
