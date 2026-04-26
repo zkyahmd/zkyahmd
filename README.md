@@ -53,8 +53,8 @@
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="#"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="dot-net" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=go" width="40" alt="Go" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt="dot-net" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="firebase" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker" /></a>
