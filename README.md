@@ -51,7 +51,8 @@
 ###
 <h3 align="left">🛠 Language and tools</h3>
 
-<p align="left">
+<!-- <p align="left"> -->
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <a href="#"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="dot-net" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="firebase" /></a>
@@ -96,7 +97,8 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="vuejs" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="wordpress" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" alt="yarn" /></a>
-</p>
+<!-- </p> -->
+</div>
 
 ###
 
