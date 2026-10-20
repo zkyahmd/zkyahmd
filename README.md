@@ -38,14 +38,14 @@
 </p>
 
 <ul align="left">
-  <li>🌱 I’m currently learning and building projects with the <strong>MERN stack (MongoDB, Express, React, Node.js)</strong></li>
-  <li>🎓 I’m a <strong>Software Engineering undergraduate</strong> passionate about practical, real-world application development</li>
-  <li>🖌️ I’m deeply interested in <strong>UI/UX Design</strong> and love crafting clean, intuitive user experiences</li>
-  <li>🔭 Currently working as a <strong>Software Engineering Intern</strong> gaining real industry experience</li>
+  <li>🌱 I'm continuously learning and building projects with <strong>MERN Stack, Next.js, and Flutter</strong></li>
+  <li>🎓 I'm a <strong>Software Engineering undergraduate</strong> passionate about building practical, real-world applications</li>
+  <li>🖌️ I'm deeply interested in <strong>UI/UX Design</strong> and love crafting clean, intuitive user experiences</li>
+  <li>💼 I have <strong>hands-on industry experience</strong> from my previous role as a <strong>Software Engineering Intern</strong></li>
   <li>🧠 Always exploring new technologies, frameworks, and creative ideas</li>
   <li>💬 I enjoy helping others, collaborating, and learning together</li>
   <li>🤝 I believe in <strong>kindness</strong>, sharing knowledge, and supporting the community</li>
-  <li>✨ Aspiring to combine development + design for impactful solutions</li>
+  <li>✨ Aspiring to combine <strong>development + design</strong> to create meaningful and impactful solutions</li>
 </ul>
 
 ###
